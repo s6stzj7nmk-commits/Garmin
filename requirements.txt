@@ -1,0 +1,1 @@
+Flask>=3.0,<4\nflask-httpauth>=4.8,<5\ngarmin-connect-personal-api-python>=1.0.0\ngunicorn>=22.0,<24\n
